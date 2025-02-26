@@ -386,14 +386,14 @@ print(user_json_string)
 
 ### 使用 `json` 标准模块的局限性
 
-在进行 JSON [数据解析](https://brightdata.com/blog/web-data/what-is-data-parsing) 时，会遇到一些不容忽视的挑战。
+在进行 JSON [数据解析](https://www.bright.cn/blog/web-data/what-is-data-parsing) 时，会遇到一些不容忽视的挑战。
 
 常见的两个例子：
 
 - 当 JSON 非法、损坏或不遵循标准时，Python `json` 模块会处理不当。  
 - 从不可信来源解析 JSON 数据是危险的，因为恶意的 JSON 字符串可能会导致解析器崩溃或消耗大量资源。
 
-虽然可以在一定程度上应对这些问题，不过在商务或实际生产环境中，使用能简化 JSON 解析的商业化工具往往更可取，比如 [Web Scraper API](https://brightdata.com/products/web-scraper)。
+虽然可以在一定程度上应对这些问题，不过在商务或实际生产环境中，使用能简化 JSON 解析的商业化工具往往更可取，比如 [Web Scraper API](https://www.bright.cn/products/web-scraper)。
 
 ## 结论
 
