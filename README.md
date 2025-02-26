@@ -11,7 +11,7 @@
   - [将 JSON 文件加载到 Python 字典](#将-JSON-文件加载到-Python-字典)
   - [从 JSON 数据转换为自定义 Python 对象](#从-JSON-数据转换为自定义-Python-对象)
 - [将 Python 数据转换成 JSON](#将-Python-数据转换成-JSON)
-- [使用 `json` 标准模块的局限性](#使用-`json`-标准模块的局限性)
+- [使用 `json` 标准模块的局限性](#使用-json-标准模块的局限性)
 - [结论](#结论)
 
 ## Python 中的 JSON 简介
