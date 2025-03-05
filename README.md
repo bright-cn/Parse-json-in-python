@@ -1,6 +1,6 @@
 # 使用 Python 解析 JSON 数据
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![Promo](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
 
 本指南介绍如何使用 Python 的 `json` 模块解析 JSON 数据，并将其转换为 Python 字典以及相反方向的转换。
 
